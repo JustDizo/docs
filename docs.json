@@ -58,9 +58,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Discord Invite",
+          "href": "https://discord.gg/",
+          "icon": ""
         },
         {
           "anchor": "Community",
